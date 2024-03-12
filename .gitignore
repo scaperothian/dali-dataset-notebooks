@@ -161,5 +161,6 @@ cython_debug/
 
 metadata_v1
 metadata_v2
+metadata_v2_f0
 audio_v1
 audio_v2
