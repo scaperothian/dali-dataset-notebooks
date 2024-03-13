@@ -1,4 +1,4 @@
-# Notebooks and other Utilited for the DALI dataset
+# Notebooks and other Utilities for the DALI dataset
 Jupyter notebooks for downloading and manipulating the DALI Dataset.  see [source repo](https://github.com/gabolsgabs/DALI) for more examples.
 
 # Download DALI audio data
